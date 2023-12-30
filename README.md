@@ -1,3 +1,4 @@
+
 # Victron Energy VE.Direct Input Parser for SensESP
 
 This library implements a [Victron Energy VE.Direct protocol](https://www.victronenergy.com/live/vedirect_protocol:faq) text mode input parser for
